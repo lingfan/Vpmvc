@@ -1,0 +1,6 @@
+[2010-11-12 06:03:32] {"function":"MEmail::send","error":"<strong>SMTP Error: Could not connect to SMTP host.<\/strong><br \/>\n","params":""} 
+[2010-11-12 06:16:44] {"function":"MEmail::send","error":"<strong>SMTP \u9519\u8bef\uff1a\u65e0\u6cd5\u8fde\u63a5\u5230 SMTP \u4e3b\u673a\u3002<\/strong><br \/>\n","params":["smtp.gmail.com","elfhuv@qq.com"]} 
+[2010-11-12 06:17:25] {"function":"MEmail::send","error":"<strong>SMTP \u9519\u8bef\uff1a\u65e0\u6cd5\u8fde\u63a5\u5230 SMTP \u4e3b\u673a\u3002<\/strong><br \/>\n","params":["smtp.gmail.com","elfhuv+3311111@gmail.com"]} 
+[2010-11-12 06:18:55] {"function":"MEmail::send","error":"<strong>SMTP \u9519\u8bef\uff1a\u65e0\u6cd5\u8fde\u63a5\u5230 SMTP \u4e3b\u673a\u3002<\/strong><br \/>\n","params":["smtp.gmail.com","elfhuv+111@gmail.com"]} 
+[2010-11-12 06:22:58] a:3:{s:8:"function";s:12:"MEmail::send";s:5:"error";s:68:"<strong>SMTP 错误：无法连接到 SMTP 主机。</strong><br />
+";s:6:"params";a:2:{i:0;s:14:"smtp.gmail.com";i:1;s:22:"elfhuv+12312@gmail.com";}} 
