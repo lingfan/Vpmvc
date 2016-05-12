@@ -8,6 +8,6 @@ define('COOKIE_DOMAIN', 'vpmvc.com');
 
 define('EMAIL_HOST', 'smtp.gmail.com');
 define('EMAIL_PORT', 465);
-define('EMAIL_USERNAME', 'elfhuv@gmail.com');
-define('EMAIL_PASSWORD', '184285285');
+define('EMAIL_USERNAME', 'aaa@gmail.com');
+define('EMAIL_PASSWORD', '');
 ?>
